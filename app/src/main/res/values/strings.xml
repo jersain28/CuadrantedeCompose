@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CuadranteDeCompose</string>
+    <string name="primer_titulo">Tony Stark</string>
+    <string name="primera_descripcion">El hombre mas inteligente del mundo integrantes de los Avengers</string>
+    <string name="segundo_titulo">Reed Richards</string>
+    <string name="segunda_descripcion">El hombre mas inteligente del planeta lider de los 4 Fantasticos</string>
+    <string name="third_title">Charles Xavier</string>
+    <string name="tercer_titulo">Charles Xavier</string>
+    <string name="tercera_descripcion">Lider de los X-Men</string>
+    <string name="cuarto_titulo">Galactus</string>
+    <string name="cuarta_descripcion">Devorador de mundos</string>
+</resources>
